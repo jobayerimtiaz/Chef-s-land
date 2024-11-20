@@ -1,0 +1,92 @@
+[
+  {
+    "recipe_image": "./Pictures/8805-CrispyFriedChicken-mfs-3x2-072-d55b8406d4ae45709fcdeb58a04143c2.jpg",
+    "recipe_id": 101,
+    "recipe_name": "Chicken Stir Fry",
+    "short_description": "A quick and healthy stir-fry recipe with chicken and vegetables.",
+    "ingredients": [
+      "500 g chicken",
+      "200 g broccoli",
+      "100 g carrots",
+      "50 g bell peppers",
+      "3 tbsp soy sauce"
+    ],
+    "preparing_time": "30 min",
+    "calories": "350 calories"
+  },
+  {
+    "recipe_image": "./Pictures/spaghetti-bolognese-recipe.jpg",
+    "recipe_id": 102,
+    "recipe_name": "Spaghetti Bolognese",
+    "short_description": "A classic Italian pasta dish with rich meat sauce.",
+    "ingredients": [
+      "300 g spaghetti",
+      "200 g minced beef",
+      "1 onion",
+      "2 garlic cloves",
+      "400 g tomato puree"
+    ],
+    "preparing_time": "40 min",
+    "calories": "420 calories"
+  },
+  {
+    "recipe_image": "./Pictures/Courgette-curry-c295fa0.jpg",
+    "recipe_id": 103,
+    "recipe_name": "Vegetable Curry",
+    "short_description": "A flavorful and hearty vegetable curry dish.",
+    "ingredients": [
+      "300 g potatoes",
+      "200 g cauliflower",
+      "100 g peas",
+      "2 tbsp curry powder",
+      "400 ml coconut milk"
+    ],
+    "preparing_time": "35 min",
+    "calories": "280 calories"
+  },
+  {
+    "recipe_image": "./Pictures/featured-grilled-salmon-recipe.jpg",
+    "recipe_id": 104,
+    "recipe_name": "Grilled Salmon",
+    "short_description": "Perfectly grilled salmon with a zesty lemon flavor.",
+    "ingredients": [
+      "2 salmon fillets",
+      "1 lemon",
+      "2 tbsp olive oil",
+      "1 tsp black pepper",
+      "1 tsp salt"
+    ],
+    "preparing_time": "25 min",
+    "calories": "300 calories"
+  },
+  {
+    "recipe_image": "./Pictures/Crispy-Chicken-Caesar-Salad_EXPS_RC24_276019_DR_07_03_10b.jpg",
+    "recipe_id": 105,
+    "recipe_name": "Caesar Salad",
+    "short_description": "A refreshing salad with a creamy Caesar dressing.",
+    "ingredients": [
+      "200 g romaine lettuce",
+      "50 g croutons",
+      "30 g parmesan cheese",
+      "100 ml Caesar dressing",
+      "1 boiled egg"
+    ],
+    "preparing_time": "15 min",
+    "calories": "250 calories"
+  },
+  {
+    "recipe_image": "./Pictures/chocolate_mousse_recipe-_BEST.webp",
+    "recipe_id": 106,
+    "recipe_name": "Chocolate Mousse",
+    "short_description": "A rich and creamy chocolate dessert.",
+    "ingredients": [
+      "200 g dark chocolate",
+      "3 eggs",
+      "150 ml heavy cream",
+      "50 g sugar",
+      "1 tsp vanilla extract"
+    ],
+    "preparing_time": "20 min",
+    "calories": "450 calories"
+  }
+]
