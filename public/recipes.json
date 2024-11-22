@@ -11,8 +11,8 @@
       "50 g bell peppers",
       "3 tbsp soy sauce"
     ],
-    "preparing_time": "30 min",
-    "calories": "350 calories"
+    "preparing_time": 30,
+    "calories": 350
   },
   {
     "recipe_image": "./Pictures/spaghetti-bolognese-recipe.jpg",
@@ -26,8 +26,8 @@
       "2 garlic cloves",
       "400 g tomato puree"
     ],
-    "preparing_time": "40 min",
-    "calories": "420 calories"
+    "preparing_time": 40,
+    "calories": 420
   },
   {
     "recipe_image": "./Pictures/Courgette-curry-c295fa0.jpg",
@@ -41,8 +41,8 @@
       "2 tbsp curry powder",
       "400 ml coconut milk"
     ],
-    "preparing_time": "35 min",
-    "calories": "280 calories"
+    "preparing_time": 35,
+    "calories": 280
   },
   {
     "recipe_image": "./Pictures/featured-grilled-salmon-recipe.jpg",
@@ -56,8 +56,8 @@
       "1 tsp black pepper",
       "1 tsp salt"
     ],
-    "preparing_time": "25 min",
-    "calories": "300 calories"
+    "preparing_time": 25,
+    "calories": 300
   },
   {
     "recipe_image": "./Pictures/Crispy-Chicken-Caesar-Salad_EXPS_RC24_276019_DR_07_03_10b.jpg",
@@ -71,8 +71,8 @@
       "100 ml Caesar dressing",
       "1 boiled egg"
     ],
-    "preparing_time": "15 min",
-    "calories": "250 calories"
+    "preparing_time": 15,
+    "calories": 250
   },
   {
     "recipe_image": "./Pictures/chocolate_mousse_recipe-_BEST.webp",
@@ -86,7 +86,7 @@
       "50 g sugar",
       "1 tsp vanilla extract"
     ],
-    "preparing_time": "20 min",
-    "calories": "450 calories"
+    "preparing_time": 20,
+    "calories": 450
   }
 ]
